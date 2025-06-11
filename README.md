@@ -26,8 +26,8 @@ This is a console-based Tic-Tac-Toe game implemented in Java. It supports both H
 
 1. Open terminal in the project folder
 2. Compile all `.java` files:
-   javac *.java
-3.Run the game:
+   javac *.java  
+3. Run the game:
    java LaunchGame
 ## Future Improvements
 
